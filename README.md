@@ -1,2 +1,2 @@
-# LeetCode-Interview-Problems
-Compilation Of the interview leetcode problems solved.
+# DSA-Interview-Problems
+Compilation Of the interview problems solved.
